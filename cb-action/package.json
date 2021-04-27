@@ -1,0 +1,19 @@
+{
+  "name": "cb-action",
+  "bin": {
+    "changba": "bin/changba.js"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "action.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^7.2.0",
+    "progress-bar": "^0.1.1"
+  }
+}
